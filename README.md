@@ -21,3 +21,54 @@ Core Competencies:
   - Agent Orchestration: Hierarchical Supervisor, LangGraph, Tool Use & State Graphs
   - Security-First AI: Deterministic SQL controls, Read-Only Sandboxes, Injection Guardrails
   - Production ML: Leakage-Safe Pipelines, Real-Time Anomaly Detection, Explainable AI
+```
+
+---
+
+### 🛠️ Tech Stack & Tooling
+
+<div align="center">
+
+#### AI & Agentic Engineering
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=38BDF8)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-1A1A2E?style=for-the-badge&logo=google&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+#### Frameworks, Web & Databases
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+### 🌟 Selected Flagship Projects
+
+| Project | Tech Stack | Highlights |
+| :--- | :--- | :--- |
+| 🧠 [**Hierarchical Multi-Agent System**](https://github.com/Daffwa/hierarchical-supervisor-multi-agent-system) | `LangGraph` `Gemini Vision` `Streamlit` | Autonomous multi-agent supervisor for automated data science workflows and visual reasoning. |
+| 🛡️ [**AI Database Analyst**](https://github.com/Daffwa/ai-database-analyst) | `Python` `SQL` `LLM Safety` | Security-first conversational analytics with deterministic read-only controls preventing data leakage. |
+| 💳 [**Financial Fraud Sentinel**](https://github.com/Daffwa/Financial-Fraud-Sentinel) | `Python` `Scikit-Learn` `Streamlit` | Real-time streaming anomaly detection engine targeting fraudulent financial transactions. |
+| 📊 [**Bank Marketing Capstone**](https://github.com/Daffwa/bank-marketing-capstone) | `Python` `Leakage-Safe ML` `EDA` | Complete machine learning capstone featuring leakage-safe preprocessing and model benchmarking. |
+| ✈️ [**Flight Radar Screen Platform**](https://github.com/Daffwa/Flight-Radar-Screen-Platform-) | `Python` `Real-Time Data` `Dashboard` | Real-time airspace telemetry monitor and geospatial flight radar tracking platform. |
+
+---
+
+### 📈 GitHub Analytics & Productivity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Daffwa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daffwa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" height="165" alt="Top Languages" />
+</div>
+
+<div align="center" style="margin-top: 10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Daffwa&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" />
+</div>
